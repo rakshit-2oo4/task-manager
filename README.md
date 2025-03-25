@@ -18,3 +18,4 @@ DELETE /tasks/:id: Remove a task.
 Use hoppscotch to test the API endpoints.
 
 # Screenshot
+![image alt](https://github.com/rakshit-2oo4/task-manager/blob/8069f8f16c378e679a1cd1b09aa8ece0790763c3/Screenshot%202025-03-25%20210937.png)
